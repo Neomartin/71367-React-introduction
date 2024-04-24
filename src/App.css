@@ -1,0 +1,30 @@
+.text-blue {
+  color: royalblue;
+}
+
+.text-red {
+  color: red;
+}
+
+.fs-20 {
+  font-size: 20px;
+}
+
+.todo-list {
+  list-style-type: none;
+
+  .todo-item {
+    padding: 10px 20px;
+    border-bottom: 1px solid #99cd327a;
+
+    .completed {
+      text-decoration: line-through;
+      color: #BeBeBe77;
+    }
+  }
+}
+
+.mr-2 {
+  margin-right: 8px;
+}
+

@@ -1,0 +1,14 @@
+.main-title {
+    color: yellowgreen;
+    text-decoration: 2px underline crimson;
+    font-size: 3rem;
+    font-weight: bold;
+    text-align: center;
+}
+
+.main-subtitle {
+    color: #999;
+    font-size: 1.5rem;
+    text-align: center;
+    font-family: monospace;
+}
